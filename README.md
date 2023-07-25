@@ -68,21 +68,21 @@ Chart provides insights into the most populous ethnicities within each category.
 The Vector Autoregression (VAR) model in machine learning to predict the population distribution for different ethnic groups in the year 2019. The VAR model is trained using historical data and evaluated by comparing the predicted values with actual data.
 
 Steps:
-1. Import the required libraries, including statsmodels, sklearn.metrics, and sklearn.model_selection.
+1.Import the required libraries, including statsmodels, sklearn.metrics, and sklearn.model_selection.
 <br>
-2. Perform feature engineering by extracting relevant features for prediction from the dataset.
+2.Perform feature engineering by extracting relevant features for prediction from the dataset.
 <br>
-3. Split the data into training and testing sets using the train_test_split function.
+3.Split the data into training and testing sets using the train_test_split function.
 <br>
-4. Select the VAR model and train it on the training data.
+4.Select the VAR model and train it on the training data.
 <br>
-5. Forecast the population distribution for the testing data.
+5.Forecast the population distribution for the testing data.
 <br>
-6. Evaluate the model's performance by calculating the Mean Squared Error (MSE).
+6.Evaluate the model's performance by calculating the Mean Squared Error (MSE).
 <br>
-7. Make predictions for the population distribution in 2019 using the trained model.
+7.Make predictions for the population distribution in 2019 using the trained model.
 <br>
-8. Compare the predicted values with the actual data for 2019 and calculate evaluation metrics such as MSE, Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Correlation Coefficient.
+8.Compare the predicted values with the actual data for 2019 and calculate evaluation metrics such as MSE, Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Correlation Coefficient.
 
 ## 3. Main Demographics Rates
 
